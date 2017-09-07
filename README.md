@@ -33,4 +33,17 @@ pip install folium
 下`/newbot`指令，創建一個新的機器人。
 照著機器人的指示，依序輸入`name`和`username`後，將會拿到一組`token`，這時你已經成功創造出一個還沒有任何功能的機器人啦。
 
+### Open Jupyter notebook
+建立一個新的資料夾，並在此路徑下開啟cmd/Terminal，下指令開啟jupyter：
+```
+# windows cmd
+jupyter notebook
+```
+這時候你就可以在Jupyter上建立並開使你的專案啦~
+
 ### Create [chat_bot.ipynb](https://github.com/chia56028/Telepot_chatWithKumamon/blob/master/chat_bot.ipynb)
+新增一個python文件
+![](https://i.imgur.com/QVSL3ra.png)
+
+開始編寫python
+![](https://i.imgur.com/lyH1ANE.png)
