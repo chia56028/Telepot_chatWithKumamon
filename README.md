@@ -1,6 +1,5 @@
 Telegram Chatbot
 ===
-[TOC]
 
 ## Something to Learn
 
